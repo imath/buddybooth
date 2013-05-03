@@ -1,0 +1,88 @@
+/*** BuddyBooth ***/
+#buddybooth_container{
+	text-align:center;
+}
+
+.buddybooth{
+	width:410px;
+	margin:0 auto;
+}
+
+#video_container{
+	position:relative;
+	float:left;
+	width:200px;
+	margin-right:5px;
+}
+#canvas_container{
+	position:relative;
+	width:200px;
+	float:left;
+}
+#left, #right{
+	position:absolute;
+	background:#FFF;
+	z-index:10000;
+	width:25px;
+	height:150px;
+	top:0;
+}
+#buddybooth_message{
+	top:50px;
+	left:30px;
+	position:absolute;
+	margin:10px 30px;
+	text-align:center;
+	width:130px;
+}
+#modop{
+	top:20px;
+	position:absolute;
+	margin:10px 30px;
+	text-align:center;
+	width:130px;
+}
+.buddybooth_action{
+	text-align:center;
+}
+
+.buddybooth_action a{
+	display:block;
+	text-indent:-99999px;
+	text-decoration:none;
+	width:48px;
+	height:48px;
+	margin:0 auto;
+}
+
+a#buddyboothSnap{
+	background-position:0 0;
+	background:url(../images/snapshot.png);
+}
+
+a#buddyboothRec{
+	background-position:0 0;
+	background:url(../images/saveshot.png);
+}
+
+a#buddyboothRec:hover{
+	background-position:0 -46px;
+}
+a#buddyboothSnap:hover{
+	background-position:0 -47px;
+}
+
+#left{
+	left:0;
+}
+#right{
+	left:175px;
+}
+#video{
+	height:150px;
+	margin-bottom:0;
+}
+#canvas{
+	width:150px;
+	height:150px;
+}

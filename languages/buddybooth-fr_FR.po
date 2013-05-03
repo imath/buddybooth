@@ -1,0 +1,95 @@
+# Copyright (C) 2013 BuddyBooth
+# This file is distributed under the same license as the BuddyBooth package.
+msgid ""
+msgstr ""
+"Project-Id-Version: BuddyBooth 1.0-beta1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/buddybooth\n"
+"POT-Creation-Date: 2013-05-03 03:00:27+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-05-03 05:06+0100\n"
+"Last-Translator: imath <mathchristo@yahoo.fr>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.5.5\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: buddybooth.php:61
+msgid ""
+"Hit the camera to take a Snapshot, then click the rec button to save your "
+"avatar"
+msgstr ""
+"Cliquez sur l&#39;appareil photo, ensuite cliquez sur le bouton rec pour "
+"enregistrer votre avatar"
+
+#: buddybooth.php:63
+msgid "<h3>Or</h3>Use the BuddyBooth !"
+msgstr "<h3>Ou</h3>Utilisez le photomaton !"
+
+#: buddybooth.php:64
+msgid "Oops, something went wrong"
+msgstr "Diantre, un problème est survenu :("
+
+#: buddybooth.php:65
+msgid "Snap shot"
+msgstr "Instantané"
+
+#: buddybooth.php:66
+msgid "Save shot"
+msgstr "Enregistrer"
+
+#: buddybooth.php:67
+msgid "Bravo! really nice avatar!"
+msgstr "Bravo! très jolie photo!"
+
+#: buddybooth.php:68
+msgid "Please wait for the video to load"
+msgstr "Vidéo en cours de chargement"
+
+#: buddybooth.php:69
+msgid "Please take a snapshot first"
+msgstr "Merci de prendre un instantané d&#39;abord."
+
+#: buddybooth.php:70
+msgid "You denied camera access.."
+msgstr "Vous avez refusé l&#39;accès à votre caméra"
+
+#: buddybooth.php:71
+msgid "Video stream loaded"
+msgstr "Vidéo chargée."
+
+#: buddybooth.php:72
+msgid "BuddyBooth requires window and navigator objects"
+msgstr "BuddyBooth a besoin des objets window et navigator"
+
+#: buddybooth.php:73
+msgid "Html context error"
+msgstr "Erreur de contexte Html"
+
+#: buddybooth.php:74
+msgid "Requesting video stream"
+msgstr "Flux vidéo demandé.."
+
+#: buddybooth.php:75
+msgid "Your browser does not support getUserMedia()"
+msgstr "Votre navigateur ne supporte pas getUserMedia()"
+
+#. Plugin Name of the plugin/theme
+msgid "BuddyBooth"
+msgstr "BuddyBooth"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/imath/buddybooth/"
+msgstr "https://github.com/imath/buddybooth/"
+
+#. Description of the plugin/theme
+msgid "Adds a photobooth to BuddyPress user avatar uploads page"
+msgstr "Ajoutez un photomaton à BuddyPress pour gérer les avatars des membres"
+
+#. Author of the plugin/theme
+msgid "imath"
+msgstr "imath"
+
+#. Author URI of the plugin/theme
+msgid "http://imathi.eu/"
+msgstr "http://imathi.eu/"
