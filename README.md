@@ -1,6 +1,8 @@
 BuddyBooth
 ==========
 
+**This BuddyPress plugin is no more maintained and is now archived.**
+
 BuddyBooth is a BuddyPress 1.7 plugin i made out of my tutorial about encouraging a user to add an avatar image to his profile.
 
 It uses HTML5 and with the getUserMedia() javascript function if the browser supports it, else it will use an Adobe Flash method.
